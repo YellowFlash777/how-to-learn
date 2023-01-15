@@ -4,3 +4,7 @@
   font-weight: 400;
   margin: 0;
 }
+
+.table__text:nth-child(2) {
+  margin-bottom: 20px;
+}
