@@ -2,6 +2,6 @@
   margin-bottom: 0;
 }
 
-.table__text_theme_dark:nth-child(2) {
+.table__text_theme_dark:nth-child(2n) {
   margin-bottom: 0;
 }

@@ -5,6 +5,6 @@
   margin: 0;
 }
 
-.table__text:nth-child(2) {
+.table__text:nth-child(2n) {
   margin-bottom: 20px;
 }
