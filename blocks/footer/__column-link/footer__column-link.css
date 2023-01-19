@@ -4,11 +4,9 @@
   font-weight: 400;
   text-decoration: none;
   color: white;
-  margin-top: 0;
+  margin: 0;
   list-style: none;
   padding-left: 0;
+  transition: .6s;
 }
 
-.footer__column-link:last-child {
-  margin-bottom: 16px;
-}
